@@ -9,8 +9,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/dharmi-2910/Micro-services
+          uri: https://github.com/dharmi-2910/microservices
           clone-on-start: true
-          username: dharmi-2910
-          password: Dharmi2910@
 
