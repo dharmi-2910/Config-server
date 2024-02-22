@@ -11,4 +11,3 @@ spring:
         git:
           uri: https://github.com/dharmi-2910/microservices
           clone-on-start: true
-
